@@ -29,5 +29,7 @@ We can see the distribution of the median sentiment on the bar-chart below
 
 # References
 [1] https://arxiv.org/abs/2005.00547
+
 [2] https://praw.readthedocs.io/en/stable/code_overview/reddit_instance.html
-[3]
+
+
